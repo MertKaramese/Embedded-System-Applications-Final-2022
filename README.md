@@ -3,6 +3,6 @@ Second and third version represents the progress of the code. Sensor publish and
 
 Group members:
 
-Musa Mert Karameşe, 1700002228
-Umut Saatçıoğlu, 1600002629
-Yaşar Enes Aydın, 1600002222
+Musa Mert Karameşe, 1700002228.
+Umut Saatçıoğlu, 1600002629.
+Yaşar Enes Aydın, 1600002222.
